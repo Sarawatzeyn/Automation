@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-09T23:17:11 EST" name="Default suite" finished-at="2023-11-09T23:17:15 EST" duration-ms="4280">
+    <groups>
+    </groups>
+    <test started-at="2023-11-09T23:17:11 EST" name="Default test" finished-at="2023-11-09T23:17:15 EST" duration-ms="4280">
+      <class name="com.facebookLocators.DirectLocators">
+        <test-method is-config="true" signature="openFaceBook()[pri:0, instance:com.facebookLocators.DirectLocators@5e0e82ae]" started-at="2023-11-09T23:17:11 EST" name="openFaceBook" finished-at="2023-11-09T23:17:13 EST" duration-ms="2862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFaceBook -->
+        <test-method signature="idLocatorTest()[pri:0, instance:com.facebookLocators.DirectLocators@5e0e82ae]" started-at="2023-11-09T23:17:14 EST" name="idLocatorTest" finished-at="2023-11-09T23:17:14 EST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- idLocatorTest -->
+        <test-method signature="linkTextLocatorTest()[pri:0, instance:com.facebookLocators.DirectLocators@5e0e82ae]" started-at="2023-11-09T23:17:14 EST" name="linkTextLocatorTest" finished-at="2023-11-09T23:17:14 EST" duration-ms="673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkTextLocatorTest -->
+        <test-method signature="nameLocatorTest()[pri:0, instance:com.facebookLocators.DirectLocators@5e0e82ae]" started-at="2023-11-09T23:17:14 EST" name="nameLocatorTest" finished-at="2023-11-09T23:17:14 EST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nameLocatorTest -->
+        <test-method signature="partialLinkTextLocatorTest()[pri:0, instance:com.facebookLocators.DirectLocators@5e0e82ae]" started-at="2023-11-09T23:17:14 EST" name="partialLinkTextLocatorTest" finished-at="2023-11-09T23:17:15 EST" duration-ms="553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- partialLinkTextLocatorTest -->
+      </class> <!-- com.facebookLocators.DirectLocators -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
